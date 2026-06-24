@@ -1,0 +1,15 @@
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.exe
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.deps.json
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.runtimeconfig.json
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.dll
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\bin\Debug\net10.0\EcommerceSearch.pdb
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.AssemblyInfo.cs
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.sourcelink.json
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.dll
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\refint\EcommerceSearch.dll
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.pdb
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\EcommerceSearch.genruntimeconfig.cache
+C:\Users\satya\OneDrive\Desktop\New folder\event\DN5-DotNetFSE-SatyamSwain\Week1\DSA\EcommerceSearch\obj\Debug\net10.0\ref\EcommerceSearch.dll
